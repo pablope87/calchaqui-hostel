@@ -1,0 +1,23 @@
+#servicios{
+    height: auto;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 35px 25px 35px 25px;
+}
+
+#servicios h1{
+    padding-bottom: 15px;
+    font-family: 'Nothing You Could Do', cursive;
+}
+
+.servicios-textos i{
+    padding-right: 12px;
+}
+
+.servicios-textos{
+    text-align: center;
+}

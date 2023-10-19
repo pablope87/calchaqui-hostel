@@ -1,0 +1,46 @@
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../../resourses/img/hero/hero1.png");
+  height: 60vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: baseline;
+  align-items: center;
+  text-align: center;
+}
+
+.hero-text h1{
+  color: #FEF9E7;
+  padding-top: 110px;
+  font-family: 'Nothing You Could Do', cursive;
+}
+
+.hero-text{
+  color: #F4D03F;
+  padding-top: 110px;
+
+}
+
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .hero-image {
+  height: 100vh;
+  }
+
+  .hero-text{
+padding-top: 20%;
+  }
+
+
+  
+
+
+
+
+}
+  
