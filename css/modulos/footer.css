@@ -147,7 +147,7 @@ footer {
 .footer-section {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: cnter;
     align-items: center;
 
 }
