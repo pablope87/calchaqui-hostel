@@ -23,6 +23,7 @@ width: 100%;
 
 .card{
     margin: 15px 0px 15px 0px;
+
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
@@ -36,5 +37,7 @@ width: 100%;
 
 .card{
     margin: 0px 15px 0px 15px;
+    min-height: 500px;
+    max-height: 500px;;
 }
 }
