@@ -30,7 +30,7 @@ footer {
 }
 
 .footer-section ul a:hover{
-    color: #BCC4A8;
+    color: #c6c6c6;
 }
 
 .footer-section ul li {
@@ -97,10 +97,13 @@ footer {
     margin: 0px;
 }
 
-.derechos a:link, a:visited, a:active {
+.derechos a:link {
     text-decoration:underline;
-    color: #989696;
 } 
+
+.pp{
+    color: #989696;
+}
 
 .boton-contacto{
     text-align: center;
@@ -147,7 +150,6 @@ footer {
 .footer-section {
     display: flex;
     flex-direction: column;
-    justify-content: cnter;
     align-items: center;
 
 }
